@@ -1,3 +1,5 @@
+You will need to use the concepts you learn in this course throughout the rest of your program. To help you do this, you're going to build a couple of tools to help you after you finish this course. The first is a table of what statistical tests can be used when you have independent variables (IV) and dependent variables (DV) with different levels of measurement. The second is an analysis/critique checklist of things you should consider when you need to perform an analysis or critique the statistical analyses used in a research report. You must add information to your copy of these tools and turn it in each week as we go through the course.
+
 # Which statistical test should I use?
 
 | <img width="550" height="1"> |  <img width="550" height="1"> | Independent<br>Variable (IV)<br><img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> |
