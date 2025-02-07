@@ -16,15 +16,15 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | Analysis/Critique Checklist | 
 | --- | 
 |  |
-| **----------Study Information (The Big Picture)----------** |
+| **----------Section #1: Study Information (The Big Picture)----------** |
 | <br><br><br><br> |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
-| **----------Dataset Information (Data Screening & Data Cleaning)----------** |
+| **----------Section #2: Dataset Information (Data Screening & Data Cleaning)----------** |
 | <br><br><br><br> |
 | What are the variables in the dataset and the level of measurement for each one? |
 | <br><br><br><br> |
-| **----------Test Information (Complete this section for each test run.)----------** |
+| **----------Section #3: Test Information (Complete this section for each test run.)----------** |
 | <br><br><br><br> |
 | What are the independent and dependent variables for the test, and what is the level of measurement for each one? |
 | <br><br><br><br> |
