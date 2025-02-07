@@ -15,7 +15,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | Analysis/Critique Checklist | 
 | --- | 
 |  |
-|: **Study Information<br>(The Big Picture)** :|
+| # **Study Information (The Big Picture)** |
 | What is the source of the data you’ve gathered? Is the mechanism by which you’ve collected your data subject to bias? The questions in this section are geared toward data collected as part of a study, but the same concepts apply when analyzing data from an existing data source. If you are extracting data from an existing data source, you might consider by what mechanisms data were collected and entered into that data source and what query was used to extract the data from the data source. Are the data collection and entry methods subject to bias? Is the wording of the query sound, or are there potential errors or omissions which might lead to some of the relevant data being excluded from the dataset used for analysis? |
 | Name of the study |
 | <br><br><br><br> |
