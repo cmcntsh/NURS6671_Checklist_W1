@@ -16,15 +16,28 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | Analysis/Critique Checklist | 
 | --- | 
 |  |
-| **Study Information (The Big Picture)** |
+| **----------Study Information (The Big Picture)----------** |
 | <br><br><br><br> |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
-| **Dataset Information (Data Screening & Data Cleaning)** |
+| **----------Dataset Information (Data Screening & Data Cleaning)----------** |
 | <br><br><br><br> |
 | What are the variables in the dataset and the level of measurement for each one? |
 | <br><br><br><br> |
-| **Test Information (Complete this section for each test run.)** |
+| **----------Test Information (Complete this section for each test run.)----------** |
 | <br><br><br><br> |
 | What are the independent and dependent variables for the test, and what is the level of measurement for each one? |
 | <br><br><br><br> |
+| **----------References----------** |
+| American Statistical Association. (2022, February 1, 2022). Ethical guidelines for statistical practice. Retrieved October 10 from https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice <br>
+
+Berman, N., & Gullíon, C. (2007). Working with a Statistician. Topics in Biostatistics, 489-503. >br>
+
+Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001 <br>
+
+Field, A. (2018). Discovering statistics using IBM SPSS statistics (Fifth ed.). SAGE Publications, Inc. <br>
+
+Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and quasi-experimental designs for generalized causal inference. Wadsworth, Cengage Learning. <br>
+
+Tabachnick, B. G., & Fidell, L. S. (2019). Using multivariate statistics (Seventh ed.). Pearson Education, Inc.
+ |
