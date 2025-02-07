@@ -15,3 +15,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | Main Section<br><img width="550" height="1"> | Question to Answer<br><img width="550" height="1"> | Your Information<br><img width="550" height="1"> |
 | --- | --- | --- |
 | **Study Information<br>(The Big Picture)** | Name of the study | |  |
+|  | What is the general purpose of this study/analysis? (exploration, hypothesis confirmation, quality improvement, learning, other?) What are the implications for how test-wise and study-wise error rates, inferences from tests, and generalizability of results are handled? |  |
+|  | What are the research questions for this study? |  |
+|  | What are the research hypotheses for the research questions? |  |
+|  | What is the study design? (Can a specific design described in a study design text like Experimental and Quasi-Experimental Designs for Generalized Causal Inference by Shadish, Cook, and Campbell be identified (Shadish et al., 2002)?) What threats to validity may be applicable to this study design? Are there any procedures that can be put in place to address these threats? |  |
