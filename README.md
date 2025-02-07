@@ -21,9 +21,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | <br><br><br><br> |
 | What is the general purpose of this study/analysis? (exploration, hypothesis confirmation, quality improvement, learning, other?) What are the implications for how test-wise and study-wise error rates, inferences from tests, and generalizability of results are handled? |
 | <br><br><br><br> |
-| What are the research questions for this study? |
-| <br><br><br><br> |
-| What are the research hypotheses for the research questions? |
+| What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
 | What is the study design? (Can a specific design described in a study design text like Experimental and Quasi-Experimental Designs for Generalized Causal Inference by Shadish, Cook, and Campbell be identified (Shadish et al., 2002)?) What threats to validity may be applicable to this study design? Are there any procedures that can be put in place to address these threats? |
 | <br><br><br><br> |
