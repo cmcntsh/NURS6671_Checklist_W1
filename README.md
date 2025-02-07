@@ -2,10 +2,10 @@ You will need to use the concepts you learn in this course throughout the rest o
 
 # Which statistical test should I use?
 
-| <img width="550" height="1"> |  <img width="550" height="1"> | Independent<br>Variable (IV)<br><img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> |
+| <img width="550" height="1"> |  <img width="550" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
-| **Dependent**<br>**Variable** **(DV)**<br><br> | **Nominal** |  |  |  |  |
+| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** |  |  |  |  |
 | <br><br><br> | **Ordinal** |  |  |  |  |
 | <br><br><br> | **Interval** |  |  |  |  |
 | <br><br><br> | **Ratio** |  |  |  |  |
