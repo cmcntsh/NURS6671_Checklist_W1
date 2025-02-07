@@ -6,7 +6,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
 | **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** |  |  |  |  |
-| <br><br><br> | **Ordinal** | <code style="color : Fuschia">test</code> |  |  |  |
+| <br><br><br> | **Ordinal** | <code style="color : fuschia">test</code> |  |  |  |
 | <br><br><br> | **Interval** |  |  |  |  |
 | <br><br><br> | **Ratio** |  |  |  |  |
 
