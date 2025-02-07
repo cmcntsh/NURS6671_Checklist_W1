@@ -5,7 +5,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 | <img width="550" height="1"> |  <img width="550" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> | <img width="550" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
-| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | $\color{Aquamarine}test$ |  |  |  |
+| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | $\color{Magenta}test$ |  |  |  |
 | <br><br><br> | **Ordinal** |  |  |  |  |
 | <br><br><br> | **Interval** |  |  |  |  |
 | <br><br><br> | **Ratio** |  |  |  |  |
