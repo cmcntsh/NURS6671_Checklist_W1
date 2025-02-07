@@ -17,24 +17,14 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | --- | 
 |  |
 | **Study Information (The Big Picture)** |
-| What is the source of the data you’ve gathered? Is the mechanism by which you’ve collected your data subject to bias? The questions in this section are geared toward data collected as part of a study, but the same concepts apply when analyzing data from an existing data source. If you are extracting data from an existing data source, you might consider by what mechanisms data were collected and entered into that data source and what query was used to extract the data from the data source. Are the data collection and entry methods subject to bias? Is the wording of the query sound, or are there potential errors or omissions which might lead to some of the relevant data being excluded from the dataset used for analysis? |
-| Name of the study |
-| <br><br><br><br> |
-| What is the general purpose of this study/analysis? (exploration, hypothesis confirmation, quality improvement, learning, other?) What are the implications for how test-wise and study-wise error rates, inferences from tests, and generalizability of results are handled? |
 | <br><br><br><br> |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
-| What is the study design? (Can a specific design described in a study design text like Experimental and Quasi-Experimental Designs for Generalized Causal Inference by Shadish, Cook, and Campbell be identified (Shadish et al., 2002)?) What are the inclusion/exclusion criteria for the study? What threats to validity may be applicable to this study design? Are there any procedures that can be put in place to address these threats? |
-| <br><br><br><br> |
-| What were IRB status and procedures? Are there any other ethical considerations necessary for this study? (American Statistical Association, 2022) |
-| <br><br><br><br> |
-| When was the study data collected? |
-| <br><br><br><br> |
-| How was the study data collected? |
-| <br><br><br><br> |
-| What were the data handling procedures? |
-| <br><br><br><br> |
 | **Dataset Information (Data Screening & Data Cleaning)** |
-| Much of the information about data screening in this section comes from the text Using Multivariate Statistics Seventh Edition (Tabachnick & Fidell, 2019). |
+| <br><br><br><br> |
 | What are the variables in the dataset and the level of measurement for each one? |
+| <br><br><br><br> |
+| **Test Information (Complete this section for each test run.)** |
+| <br><br><br><br> |
+| What are the independent and dependent variables for the test, and what is the level of measurement for each one? |
 | <br><br><br><br> |
