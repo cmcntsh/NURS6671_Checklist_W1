@@ -26,7 +26,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 |  |
 | What are the variables in the dataset and the level of measurement for each one? |
 | <br><br><br><br> |
-| **----------Section #3: Test Information (Complete this section for each test run.)----------** |
+| **----------Section #3: Individual Test Information (Complete this section for each test run.)----------** |
 |  |
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | <br><br><br><br> |
