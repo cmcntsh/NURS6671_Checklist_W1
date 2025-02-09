@@ -2,7 +2,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 
 # Which statistical test should I use?
 
-| <img width="300" height="1"> |  <img width="300" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="300" height="1"> | <img width="550" height="1"> | <img width="300" height="1"> | <img width="300" height="1"> |
+| <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
 | **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** |  |  |  |  |
