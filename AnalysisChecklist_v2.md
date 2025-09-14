@@ -4,7 +4,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #1: Study Information<br>(The Big Picture)</h2>
 
-<table>
+<table style="tr:nth-child(odd) {background-color: #f2f2f2;}">
 <tr>
     <td>$\textcolor{red}{Add \ this \ section:}$ What are the research questions for this study? Have the investigators hypothesized any outcomes?</td>
 </tr>
