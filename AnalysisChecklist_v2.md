@@ -15,6 +15,19 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 </tr>
 </table>
 
+<h2 align="center">Section #2: Dataset Information<br>(Data Screening & Data Cleaning)</h2>
+
+<table>
+<tr>
+</tr>
+<tr>
+    <td>$\textcolor{red}{Add \ this \ section:}$ What are the variables in the dataset and the level of measurement for each one?</td>
+</tr>
+<tr>
+    <td><br><br><br><br></td>
+</tr>
+</table>
+
 |  |  |
 | --- | --- |
 | $\textcolor{red}{Add \ this \ section:}$ What are the research questions for this study? Have the investigators hypothesized any outcomes? |
