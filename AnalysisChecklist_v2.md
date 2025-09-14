@@ -4,6 +4,8 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #1: Study Information<br>(The Big Picture)</h2>
 
+|  |  |
+| --- | --- |
 | $\textcolor{red}{Add \ this \ section:}$ What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
 | **--------------------Section #2: Dataset Information (Data Screening & Data Cleaning)--------------------** |
