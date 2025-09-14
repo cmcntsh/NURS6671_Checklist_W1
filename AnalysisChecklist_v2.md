@@ -4,6 +4,15 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #1: Study Information<br>(The Big Picture)</h2>
 
+<table>
+<tr>
+    <td>$\textcolor{red}{Add \ this \ section:}$ What are the research questions for this study? Have the investigators hypothesized any outcomes?</td>
+</tr>
+<tr>
+    <td><br><br><br><br></td>
+</tr>
+</table>
+
 |  |  |
 | --- | --- |
 | $\textcolor{red}{Add \ this \ section:}$ What are the research questions for this study? Have the investigators hypothesized any outcomes? |
