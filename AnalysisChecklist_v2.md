@@ -2,7 +2,7 @@
 
 Hopefully, the statistics you calculate are more than just a collection of random facts about the data you have. Most of the time, individuals and organizations seek to answer a question or solve a problem using statistical data. As such, the statistics you calculate should be part of the supporting evidence of a well-crafted argument (Booth et al., 2016). Validity is an overarching concern of science and refers to the level of truth we ascribe to inferences (Shadish et al., 2002). This checklist aims to help you gather information relevant to establishing the validity of the inferences you seek to make with the statistics you calculate. The answers you provide to the prompts in this checklist are the logical foundation upon which any arguments you desire to make with the results of your analyses rest. Ensuring the integrity of your data and analyses is part of ethical statistical practice (American Statistical Association, 2022). Background information should not be overlooked when conducting and interpreting statistical analyses. It’s never a bad idea to consult a statistician during the planning stages of a study or analysis to ensure the data collection and analysis plan is sound (Berman & Gullion, 2007). This checklist will also help you gather and prepare the information needed to work with a statistician or critique the work of others.
 
-<h2 align="center>Section #1: Study Information<br>(The Big Picture)</h2>
+<h2 align="center">Section #1: Study Information<br>(The Big Picture)</h2>
 
 | Analysis/Critique Checklist | 
 | --- | 
