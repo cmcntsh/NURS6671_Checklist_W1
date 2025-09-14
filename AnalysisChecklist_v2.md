@@ -7,10 +7,10 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 <table>
 <tr>
 </tr>
-<tr style="background-color: #f2f2f2;">
+<tr>
     <td>$\textcolor{red}{Add \ this \ section:}$ What are the research questions for this study? Have the investigators hypothesized any outcomes?</td>
 </tr>
-<tr style="background-color: #ffffff;">
+<tr>
     <td><br><br><br><br></td>
 </tr>
 </table>
