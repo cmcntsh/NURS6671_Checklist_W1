@@ -4,7 +4,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #1: Study Information<br>(The Big Picture)</h2>
 
-<table>
+<table width="100%">
 <tr>
 </tr>
 <tr>
@@ -17,7 +17,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #2: Dataset Information<br>(Data Screening & Data Cleaning)</h2>
 
-<table>
+<table width="100%">
 <tr>
 </tr>
 <tr>
