@@ -4,7 +4,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #1: Study Information<br>(The Big Picture)</h2>
 
-<table width="100%">
+<table>
 <tr>
 </tr>
 <tr>
@@ -17,11 +17,24 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 
 <h2 align="center">Section #2: Dataset Information<br>(Data Screening & Data Cleaning)</h2>
 
-<table width="100%">
+<table>
 <tr>
 </tr>
 <tr>
     <td>$\textcolor{red}{Add \ this \ section:}$ What are the variables in the dataset and the level of measurement for each one?</td>
+</tr>
+<tr>
+    <td><br><br><br><br></td>
+</tr>
+</table>
+
+<h2 align="center">Section #3: Individual Test Information<br>(Complete this section for each test conducted.)</h2>
+
+<table>
+<tr>
+</tr>
+<tr>
+    <td>$\textcolor{red}{Add \ this \ section:}$ What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one?</td>
 </tr>
 <tr>
     <td><br><br><br><br></td>
